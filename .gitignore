@@ -1,0 +1,38 @@
+.DS_Store
+.claude/
+.codex/
+.vscode/
+.idea/
+# Credentials, local configuration, and session/log exports
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+*.jsonl
+*credentials*.json
+*service-account*.json
+# Never publish site/resident data or audit backups
+*[sS][iI][tT][eE][sS]*.json
+*[bB][aA][cC][kK][uU][pP]*.json
+*[hH][oO][mM][eE][sS]*.json
+*[aA][uU][dD][iI][tT]*.json
+*[rR][eE][sS][iI][dD][eE][nN][tT]*.json
+*[pP][aA][sS][sS][pP][hH][rR][aA][sS][eE]*
+*.pdf
+*.csv
+*.xlsx
+*.xls
+*.dump
+*.bak
+*.zip
+# Temporary local test files
+__test__/
+__pycache__/
+*.pyc
+tests
+README.md

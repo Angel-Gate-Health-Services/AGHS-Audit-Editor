@@ -1,0 +1,30 @@
+[
+  {
+    "package": "jspdf",
+    "version": "4.2.1",
+    "file": "jspdf.umd.min.js",
+    "integrity": "sha384-qovJwSBbRDPP5cEjCp8S0UP66wrvnjaa60XMOGzTNanrThcrGfXfnZkvgY8N1KT3",
+    "registryIntegrity": "sha512-YyAXyvnmjTbR4bHQRLzex3CuINCDlQnBqoSYyjJwTP2x9jDLuKDzy7aKUl0hgx3uhcl7xzg32agn5vlie6HIlQ=="
+  },
+  {
+    "package": "jspdf-autotable",
+    "version": "5.0.9",
+    "file": "jspdf.plugin.autotable.min.js",
+    "integrity": "sha384-A77YsHWitrPuAj8E0AuB033EXzymUxIajnWKPzrrzqFoYYSCEpFennDUjMG2R1L3",
+    "registryIntegrity": "sha512-wIOG2ggjG6Y7qvqjgFACZZeu+oHxoxrhwCn1lTMxjPhojLVVvu2U2yS2srVCYl0CXe6pqiG/jQMIIS0CFn1ssw=="
+  },
+  {
+    "package": "@supabase/supabase-js",
+    "version": "2.117.3",
+    "file": "supabase.js",
+    "integrity": "sha384-BWcjm9OdFth9TbhCxZPdm+gAOUMAzQy9nmTs12ioXdCcbVnJaPMn+fMUoQCLt60R",
+    "registryIntegrity": "sha512-K+f8PimXDunPWQ63CKRXaF5pbVPJxmfw5ryAnh0s9S9PkwcuqBjiSpIaqpF7KLDljeYwXIL85ST8QxaO0+XuvA=="
+  },
+  {
+    "package": "canvas-confetti",
+    "version": "1.9.4",
+    "file": "confetti.browser.js",
+    "integrity": "sha384-bopE5cbMjKUprmGnIRk2UdvCnHImrRLCtNW2uR6oDYqO+o3XWJeuIrWWxDzeDgNW",
+    "registryIntegrity": "sha512-yxQbJkAVrFXWNbTUjPqjF7G+g6pDotOUHGbkZq2NELZUMDpiJ85rIEazVb8GTaAptNW2miJAXbs1BtioA251Pw=="
+  }
+]
